@@ -1,0 +1,12 @@
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\bin\Debug\PNGWriter.exe
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\bin\Debug\PNGWriter.pdb
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\bin\Debug\PNGEncoder.dll
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\bin\Debug\zlib.net.dll
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\bin\Debug\PNGEncoder.pdb
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.Form1.resources
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.Properties.Resources.resources
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.csproj.GenerateResource.Cache
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.exe
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGWriter\obj\Debug\PNGWriter.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\test\cs\PNGWriter\TestUnit01\bin\Release\TestUnit01.dll</TopNode>
+  <SelectedNode>[0-1002]C:\test\cs\PNGWriter\TestUnit01\bin\Release\TestUnit01.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\test\cs\PNGWriter\TestUnit01\bin\Release\TestUnit01.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1003]TestUnit01" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1000]TestUnit01.Class1" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1001]TestUnit01.Class1.TestGetBigEndian32" />
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\test\cs\PNGWriter\TestUnit01\bin\Release\TestUnit01.dll" total="1" failures="0" not-run="0" date="2008-08-04" time="10:36:39">
+  <environment nunit-version="2.4.6.0" clr-version="2.0.50727.832" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.6\bin" machine-name="HP32753119019" user="k-tsuge" user-domain="HP32753119019" />
+  <culture-info current-culture="ja-JP" current-uiculture="ja-JP" />
+  <test-suite name="C:\test\cs\PNGWriter\TestUnit01\bin\Release\TestUnit01.dll" success="True" time="0.078" asserts="0">
+    <results>
+      <test-suite name="TestUnit01" success="True" time="0.063" asserts="0">
+        <results>
+          <test-suite name="Class1" success="True" time="0.063" asserts="0">
+            <results>
+              <test-case name="TestUnit01.Class1.TestGetBigEndian32" executed="True" success="True" time="0.047" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

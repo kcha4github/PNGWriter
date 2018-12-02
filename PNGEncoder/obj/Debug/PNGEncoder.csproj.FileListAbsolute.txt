@@ -1,0 +1,6 @@
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\bin\Debug\PNGEncoder.dll
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\bin\Debug\PNGEncoder.pdb
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\obj\Debug\PNGEncoder.csprojResolveAssemblyReference.cache
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\obj\Debug\PNGEncoder.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\obj\Debug\PNGEncoder.dll
+C:\Users\kunio\Desktop\自習\PNGWriter\PNGEncoder\obj\Debug\PNGEncoder.pdb

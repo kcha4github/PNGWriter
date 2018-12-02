@@ -1,0 +1,12 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\PNGEncoder.dll
+bin\Release\PNGEncoder.pdb
+obj\Release\PNGEncoder.dll
+obj\Release\PNGEncoder.pdb
+bin\Release\zlib.net.dll
+bin\Debug\PNGEncoder.dll
+bin\Debug\PNGEncoder.pdb
+bin\Debug\zlib.net.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PNGEncoder.dll
+obj\Debug\PNGEncoder.pdb
